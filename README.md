@@ -58,8 +58,8 @@
 🔭 **Currently Building:** LeaveSync — a scalable smart leave management system  
 🌱 **Upskilling In:** Advanced React, Django REST Framework, and Cloud Deployment  
 👯 **Open To:** Internship and collaboration opportunities in full-stack and AI-driven development  
-📫 **Contact:** ravi5258p@gmail.com  
-🔗 **Portfolio & Repositories:** https://github.com/EDWARD-012  
+📫 **Contact:** harshitkr13@gmail.com  
+🔗 **Portfolio & Repositories:** https://github.com/harshitkr13  
 ⚡ **Developer Note:** I maintain high focus and productivity, often coding with lo-fi music 🎧
 
 ---
