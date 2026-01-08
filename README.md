@@ -25,10 +25,10 @@
 # 🤝 Connect With Me
 <p align="center">
   <a href="https://x.com/ravirock6257"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href=https://www.linkedin.com/in/harshit-kumar-85b0542a6/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.linkedin.com/in/harshit-kumar-85b0542a6/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://leetcode.com/u/HarshitZenith3/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45"/>
 </a>
-  <a href="harshitkumar4840@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="mailto:harshitkumar4840@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
 ---
